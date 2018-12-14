@@ -1,12 +1,14 @@
 |CyVerse logo|_
 
+|OSG logo|_
+
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-VICE Documentation
-==================
+OSG-RMTA 
+========
 
-This guide introduces VICE, a visual and interactive computing environment which is the latest feature in CyVerse's Discovery Environment (DE) for running interactive apps. This guide instructs users on how to do basic functions of VICE, e.g., how to launch interactive apps, run your analysis on interactive apps, build interactive apps etc.
+This guide introduces OSG-RMTA (read mapping, transcript assembly), which is a gene quantification workflow for RNA-Seq data utilizing CyVerse’s Discovery Environment for job scheduling, Datastore for data management and OSG for distributed high throughput computing.
 
 .. toctree::
    :maxdepth: 1
@@ -14,25 +16,13 @@ This guide introduces VICE, a visual and interactive computing environment which
 
    getting_started/about
    getting_started/prerequisites
-   getting_started/apptypes
 
 .. toctree::
    :maxdepth: 1
    :caption: User Guide
 
-   user_guide/quick-jupyter
-   user_guide/quick-rstudio
-   user_guide/quick-rshiny
-   user_guide/quick-ubuntu-desktop
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Developer Guide
-
-   developer_guide/workflow
-   developer_guide/adding
-   developer_guide/building
-   developer_guide/examples
+   user_guide/quick-start
+   user_guide/test-run
 
 .. toctree::
    :maxdepth: 1
@@ -64,6 +54,12 @@ This guide introduces VICE, a visual and interactive computing environment which
     :width: 500
     :height: 100
 .. _CyVerse logo: http://learning.cyverse.org/
+
+.. |OSG logo| image:: ./img/osgicon.png
+    :width: 500
+    :height: 250    
+.. _OSG logo: http://osgconnect.net/
+
 .. |Home_Icon| image:: ./img/homeicon.png
     :width: 25
     :height: 25
