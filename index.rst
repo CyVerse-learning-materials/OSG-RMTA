@@ -1,4 +1,5 @@
-|CyVerse logo|_
+.. include:: cyverse_rst_defined_substitutions.txt
+|CyVerse_logo|_
 
 |OSG logo|_
 
@@ -42,8 +43,15 @@ This guide introduces OSG-RMTA (read mapping, transcript assembly), which is a g
 
 **Fix or improve this documentation**
 
-- On Github: `Repo link <https://github.com/CyVerse-learning-materials/sciapps_guide>`_
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+
+
 
 ----
 

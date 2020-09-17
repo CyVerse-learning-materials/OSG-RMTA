@@ -10,7 +10,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from misc.cyverse_sphinx_conf import *  # noqa
 
 project = 'OSG-RMTA'
-copyright = '2018, CyVerse'
+copyright = '2020, CyVerse'
 author = 'CyVerse'
 version = 'v 2.1'
 release = 'v 2.1'
